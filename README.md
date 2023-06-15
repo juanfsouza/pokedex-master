@@ -25,7 +25,7 @@ Comando npm `npm run [comando]`
 - Criação de API e Controllers
 - Efeitos e animações orientados a detalhes usando Sass
 - Reagir à busca de dados Axios
-- 
+
 ##
 ![Screenshot_4](https://github.com/juanfsouza/pokedex-master/assets/88254614/dfaef6fe-66be-41a6-99c6-0c30f2e492ad)
 ![Screenshot_3](https://github.com/juanfsouza/pokedex-master/assets/88254614/95e14df2-e9fe-4033-9589-b3810f0fcfe7)
