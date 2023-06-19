@@ -24,7 +24,7 @@ Comando npm `npm run [comando]`
 - Capacidade de resposta total em todas as páginas
 - Criação de API e Controllers
 - Efeitos e animações orientados a detalhes usando Sass
-- Reagir à busca de dados Axios
+- Busca de dados Axios
 
 ## Projeto foi desenvolvido em  algumas semnas ultilizando Apis de Catch e Locations
 ![Screenshot_4](https://github.com/juanfsouza/pokedex-master/assets/88254614/dfaef6fe-66be-41a6-99c6-0c30f2e492ad)
