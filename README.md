@@ -28,7 +28,7 @@ Comando npm `npm run [comando]`
 | :-------------- | :--------------------------------------- |
 | `start`           | Inicia Server |
 
-## Foi Usado:
+## Tecnoloagias:
 
 - Ambiente, Typescript, Configuração do Redux
 - FireBase, criação de banco de dados
