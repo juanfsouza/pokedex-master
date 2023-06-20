@@ -11,6 +11,8 @@ Projeto Pokedex - Next Level
   Plataforma para listagem de pokémons
 </p>
 
+[Link]: # 'Link with example title.'
+
 ![Screenshot_1](https://github.com/juanfsouza/pokedex-master/assets/88254614/a86de2f5-ad44-471d-ab0c-aaa2248a789c)
 ![Screenshot_2](https://github.com/juanfsouza/pokedex-master/assets/88254614/8e3f697e-95c2-488e-9284-5804347ae886)
 
