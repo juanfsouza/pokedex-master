@@ -1,8 +1,10 @@
-# Projeto Pokedex - Next Level
+
 <p align="center">
   <img alt="Pokedex logo" src="https://github.com/juanfsouza/pokedex-master/assets/88254614/d397b83f-8a31-4d12-aa71-52270a3c5469"
  width="400px" />
 </p>
+
+# Projeto Pokedex - Next Level
 
 <p align="center" fontSize="60px">
   Plataforma para listagem de pokémons
