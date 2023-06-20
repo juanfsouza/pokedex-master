@@ -11,8 +11,6 @@ Projeto Pokedex - Next Level
   Plataforma para listagem de pokémons
 </p>
 
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Click%20here&uri=https%3A%2F%2Fpokemon-jfs.netlify.app)
-
 
 
 ![Screenshot_1](https://github.com/juanfsouza/pokedex-master/assets/88254614/a86de2f5-ad44-471d-ab0c-aaa2248a789c)
