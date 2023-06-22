@@ -17,7 +17,7 @@ Projeto Pokedex - Next Level
 ![Screenshot_2](https://github.com/juanfsouza/pokedex-master/assets/88254614/8e3f697e-95c2-488e-9284-5804347ae886)
 
 ## Iniciar o app
-l
+
 ```shell or bash..
 yarn start
 ```
